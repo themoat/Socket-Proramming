@@ -5,7 +5,7 @@ import threading
 while on the client socket side we deal with c"""
 
 PORT=5050
-SERVER = "192.168.43.247"
+SERVER = "192.168.#"
 ADDR = (SERVER, PORT)
 HEADER=64
 FORMAT='utf-8'
