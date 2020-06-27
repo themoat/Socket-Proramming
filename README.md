@@ -1,5 +1,5 @@
 # Socket-Proramming
-Implementing simple echo server. 
+Implementing simple chat server, and establishing client server socket communication, so that multiple  clients can communicate over the chat server 
 
 So, how it works is like, frst of all there will be two sides communicating the client side and the server side.
 Now lets see how that works in python:
