@@ -14,7 +14,6 @@ In the HEADER I mention the bytes that I am ready to send or receive.
 Then after displaying the message, the ocnnection is closed by the socket server.
 Now another thread runs to accept new connections, basically this is running side by side.
 
-
-||arly we try to establish, a client  side, in python with send connection so as to send, msgs to e received by the server side.
+Similarly we try to establish, a client  side, in python with send connection so as to send, msgs to e received by the server side.
 
 
